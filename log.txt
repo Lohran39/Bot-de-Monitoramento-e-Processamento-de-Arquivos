@@ -1,0 +1,44 @@
+[2025-05-23 22:40:26] Bot rodando... monitorando a pasta "entrada"
+[2025-05-23 22:40:30] 🔄 Processando: Funcionários.xlsx
+[2025-05-23 22:40:30] ❌ Erro ao processar Funcionários.xlsx: PatternFill.__init__() got an unexpected keyword argument 'extLst'
+[2025-05-23 22:42:01] Bot rodando... monitorando a pasta "entrada"
+[2025-05-23 22:42:09] 🔄 Processando: Funcionários.xlsx
+[2025-05-23 22:42:10] ❌ Erro ao processar Funcionários.xlsx: PatternFill.__init__() got an unexpected keyword argument 'extLst'
+[2025-05-23 22:43:16] Bot rodando... monitorando a pasta "entrada"
+[2025-05-23 22:43:18] 🔄 Processando: Funcionários.xlsx
+[2025-05-23 22:43:18] ❌ Erro ao processar Funcionários.xlsx: PatternFill.__init__() got an unexpected keyword argument 'extLst'
+[2025-05-23 22:44:35] Bot rodando... monitorando a pasta "entrada"
+[2025-05-23 22:44:44] 🔄 Processando: Funcionários.xlsx
+[2025-05-23 22:44:44] ❌ Erro ao processar Funcionários.xlsx: PatternFill.__init__() got an unexpected keyword argument 'extLst'
+[2025-05-23 22:45:15] Bot rodando... monitorando a pasta "entrada"
+[2025-05-23 22:45:23] 🔄 Processando: Funcionários.xlsx
+[2025-05-23 22:45:24] ❌ Erro ao processar Funcionários.xlsx: PatternFill.__init__() got an unexpected keyword argument 'extLst'
+[2025-05-23 22:46:13] Bot rodando... monitorando a pasta "entrada"
+[2025-05-23 22:46:25] Bot rodando... monitorando a pasta "entrada"
+[2025-05-23 22:46:47] 🔄 Processando: Funcionários.xlsx
+[2025-05-23 22:46:48] ❌ Erro ao processar Funcionários.xlsx: PatternFill.__init__() got an unexpected keyword argument 'extLst'
+[2025-05-23 22:47:53] Bot rodando... monitorando a pasta "entrada"
+[2025-05-23 22:48:03] 🔄 Processando: Funcionários.xlsx
+[2025-05-23 22:48:04] ❌ Erro ao processar Funcionários.xlsx: PatternFill.__init__() got an unexpected keyword argument 'extLst'
+[2025-05-23 22:49:19] Bot rodando... monitorando a pasta "entrada"
+[2025-05-23 22:49:23] 📥 Arquivo detectado: Funcionários.xlsx
+[2025-05-23 22:49:24] 🔄 Processando: Funcionários.xlsx
+[2025-05-23 22:49:24] ❌ Erro ao processar Funcionários.xlsx: PatternFill.__init__() got an unexpected keyword argument 'extLst'
+[2025-05-23 22:52:29] Bot rodando... monitorando a pasta "entrada"
+[2025-05-23 22:52:30] 📥 Arquivo detectado: Planilha sem título.xlsx
+[2025-05-23 22:52:31] 🔄 Processando: Planilha sem título.xlsx
+[2025-05-23 22:52:32] ✅ Arquivo salvo em: saida\novo_Planilha sem título.xlsx
+[2025-05-23 22:52:33] ✅ Mensagem enviada pelo Telegram!
+[2025-05-23 22:52:34] ✅ Arquivo enviado pelo Telegram!
+[2025-05-23 22:55:14] Bot rodando... monitorando a pasta "entrada"
+[2025-05-23 22:55:25] 📥 Arquivo detectado: Planilha dos Funcionários.xlsx
+[2025-05-23 22:55:26] 🔄 Processando: Planilha dos Funcionários.xlsx
+[2025-05-23 22:55:26] ✅ Arquivo salvo em: saida\novo_Planilha dos Funcionários.xlsx
+[2025-05-23 22:55:27] ✅ Mensagem enviada pelo Telegram!
+[2025-05-23 22:55:28] ✅ Arquivo enviado pelo Telegram!
+[2025-05-23 22:56:58] Bot rodando... monitorando a pasta "entrada"
+[2025-05-23 22:57:11] 📥 Arquivo detectado: Planilha dos Funcionários.xlsx
+[2025-05-23 22:57:12] 🔄 Processando: Planilha dos Funcionários.xlsx
+[2025-05-23 22:57:12] ✅ Arquivo salvo em: saida\novo_Planilha dos Funcionários.xlsx
+[2025-05-23 22:57:13] ✅ Mensagem enviada pelo Telegram!
+[2025-05-23 22:57:14] ✅ Arquivo enviado pelo Telegram!
